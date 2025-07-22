@@ -1,5 +1,7 @@
 # bun-react-template
 
+Сайт с данными не работал (возможно лично у меня) сделал его аналог
+
 To install dependencies:
 
 ```bash
