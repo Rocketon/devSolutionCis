@@ -1,4 +1,4 @@
-import index from "./index.html";
+import index from "../index.html";
 
 function validateNumberParam(param: string): Boolean {
   const number = Number(param);

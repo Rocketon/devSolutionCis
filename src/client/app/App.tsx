@@ -1,5 +1,5 @@
-import { APITester } from "./APITester";
-import "./index.css";
+import { APITester } from "../widgets/APITester";
+import "../shared/styles/index.css";
 
 
 export function App() {
